@@ -1,0 +1,19 @@
+Voilà en bref les commandes :
+- clique gauche : sélection des brins
+- clique droit : menu des règles
+- clique gauche + mouvement : tourner la caméra
+- z,q,s,d ou flèches : déplacement de la caméra
+- t : afficher/masquer la topologie
+- f : afficher/masquer la géometrie
+- g : afficher/masquer la grille
+- i : afficher.masquer les infos relatives à la scène
+- 1-3 : objets primitifs
+- @ : changer de mode d'application
+- k : recharger le ficher de règles
+- '-' : tout déselectionner
+- e : vider la scène
+- u : annuler la dernière opération
+- l : charger un fichier moka
+- m : sauver vers un fichier moka
+- o : sauver vers un fichier obj
+- ) : vérifier la cohérence de la G-carte

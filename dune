@@ -1,0 +1,7 @@
+(executable
+ (name main_mod)
+ (libraries lablgl lablgl.glut res str dynlink))
+
+(rule
+ (targets rules_mod.cmxs)
+ (action (run %{ocamlopt} -shared -o %{targets} %{cmx:rules_mod})))
